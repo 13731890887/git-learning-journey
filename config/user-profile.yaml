@@ -1,0 +1,5 @@
+# 用户配置文件                                                        
+  name: 用户      
+  email: user@example.com
+  theme: dark
+  language: zh-CN
